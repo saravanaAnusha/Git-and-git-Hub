@@ -1,5 +1,6 @@
-checkout 
 stash
-commit
-branches
-status
+checkout
+request
+fetch
+stash
+cherrypick
